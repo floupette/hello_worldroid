@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">ToutDoux</string>
+    <string name="hello_world">Hll, Wrld!</string>
+    <string name="default_button">Click me!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
